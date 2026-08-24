@@ -2,7 +2,7 @@ import yt_dlp
 
 
 print('''
-\t==== YOUTUBE TO MP3 DOWNLOADER! ====
+\t====  MP3 DOWN! ====
 ''')
 
 url = input("INSIRA A URL: ")
