@@ -29,4 +29,5 @@ Biblioteca: yt_dlp
 Bibliotecas: yt_dlp, customtkinter
 
 -> Código com interface simples
+
 -> Código cria uma pasta chamada "pasta_musicas" no mesmo diretório do main.py
