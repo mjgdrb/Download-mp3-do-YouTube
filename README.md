@@ -1,4 +1,4 @@
-Aqui está uma versão do seu **README.md** totalmente reformatada em Markdown moderno, estruturada e visualmente atraente para o GitHub:
+
 
 ---
 
