@@ -20,7 +20,7 @@ Uma ferramenta em Python para download e conversão de áudios do YouTube para f
 
 Para que o projeto funcione corretamente, você precisará ter os seguintes utilitários instalados no seu sistema operacional:
 
-* **Python 3.x**
+* **Python 3.14**
 * **[FFmpeg](https://ffmpeg.org/)** (necessário para a conversão de áudio para `.mp3`)
 * **[Node.js](https://nodejs.org/)** (necessário para a execução de rotinas JS do YouTube pelo `yt-dlp`)
 
